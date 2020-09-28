@@ -1,0 +1,27 @@
+{
+  "name": "@sshruti14/lotide",
+  "version": "1.0.1",
+  "description": "Mini Clone of Lodash Library",
+  "main": "assertArraysEqual.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sshruti14/lotide.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sshruti14/lotide/issues"
+  },
+  "homepage": "https://github.com/sshruti14/lotide#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.3"
+  }
+}
